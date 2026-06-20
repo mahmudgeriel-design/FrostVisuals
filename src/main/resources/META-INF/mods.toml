@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[dependencies.frostvisuals]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.39,)"
+    ordering="NONE"
+    side="CLIENT"
+[[dependencies.frostvisuals]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="CLIENT"
+[[mods]]
+modId="frostvisuals"
+version="1.0.0"
+displayName="FrostVisuals"
+description='''
+❄ FrostVisuals — the ultimate visual enhancement mod.
+Beautiful GUI, sword editor, custom HUD, world visuals and more.
+'''
